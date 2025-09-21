@@ -26,22 +26,6 @@
 
 ---
 
-## 🔮 **Installation**
-
-```bash
-pip install quantum-kintsugi
-# Warning: May cause existential awakening in your codebase
-```
-
-Or clone from the ethereal realm:
-```bash
-git clone https://github.com/your-username/quantum-kintsugi.git
-cd quantum-kintsugi
-pip install -r requirements.txt
-```
-
----
-
 ## 🌸 **Sacred Fractures Collection**
 
 ### **Fracture #01: Zero, the Forbidden Mirror**
